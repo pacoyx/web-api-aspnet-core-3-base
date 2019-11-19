@@ -33,6 +33,8 @@ namespace apiBaseCore.Controllers
         {
             var domesticAccounts = _repoWrapper.Account.FindByCondition(x => x.AccountType.Equals("Domestic"));
             var owners = _repoWrapper.Owner.FindAll();
+            _repoWrapper.Owner.Create(new Entities.Models.Owner() { Name = "carlos" });
+            _repoWrapper.Save();
 
             return new string[] { "valoresDOS", "ValoressDOSDOS" };
         }

@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using apiBaseCore.Extensions;
+using AutoMapper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpOverrides;
@@ -32,7 +33,7 @@ namespace apiBaseCore
         {
             services.ConfigureCors();
             services.ConfigureIISIntegration();
-            
+            services.AddAutoMapper(typeof(Startup));
 
             services.AddControllers();
             services.ConfigureRepositoryWrapper();
@@ -58,6 +59,7 @@ namespace apiBaseCore
             {
                 ForwardedHeaders = ForwardedHeaders.All
             });
+
             app.UseRouting();
 
             app.UseAuthorization();
