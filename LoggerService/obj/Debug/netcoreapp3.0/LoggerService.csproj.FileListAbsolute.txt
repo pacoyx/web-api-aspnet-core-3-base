@@ -1,0 +1,13 @@
+C:\Users\ITDATA\source\repos\apiBaseCore\LoggerService\bin\Debug\netcoreapp3.0\Contracts.dll
+C:\Users\ITDATA\source\repos\apiBaseCore\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.csprojAssemblyReference.cache
+C:\Users\ITDATA\source\repos\apiBaseCore\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\ITDATA\source\repos\apiBaseCore\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.AssemblyInfo.cs
+C:\Users\ITDATA\source\repos\apiBaseCore\LoggerService\bin\Debug\netcoreapp3.0\LoggerService.deps.json
+C:\Users\ITDATA\source\repos\apiBaseCore\LoggerService\bin\Debug\netcoreapp3.0\LoggerService.dll
+C:\Users\ITDATA\source\repos\apiBaseCore\LoggerService\bin\Debug\netcoreapp3.0\LoggerService.pdb
+C:\Users\ITDATA\source\repos\apiBaseCore\LoggerService\bin\Debug\netcoreapp3.0\Contracts.pdb
+C:\Users\ITDATA\source\repos\apiBaseCore\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.csproj.CopyComplete
+C:\Users\ITDATA\source\repos\apiBaseCore\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.dll
+C:\Users\ITDATA\source\repos\apiBaseCore\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.pdb
+C:\Users\ITDATA\source\repos\apiBaseCore\LoggerService\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\ITDATA\source\repos\apiBaseCore\LoggerService\bin\Debug\netcoreapp3.0\Entities.pdb

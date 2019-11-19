@@ -1,0 +1,13 @@
+C:\Users\ITDATA\source\repos\apiBaseCore\Repository\bin\Debug\netcoreapp3.0\Repository.deps.json
+C:\Users\ITDATA\source\repos\apiBaseCore\Repository\bin\Debug\netcoreapp3.0\Repository.dll
+C:\Users\ITDATA\source\repos\apiBaseCore\Repository\bin\Debug\netcoreapp3.0\Repository.pdb
+C:\Users\ITDATA\source\repos\apiBaseCore\Repository\bin\Debug\netcoreapp3.0\Contracts.dll
+C:\Users\ITDATA\source\repos\apiBaseCore\Repository\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\ITDATA\source\repos\apiBaseCore\Repository\bin\Debug\netcoreapp3.0\Contracts.pdb
+C:\Users\ITDATA\source\repos\apiBaseCore\Repository\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\ITDATA\source\repos\apiBaseCore\Repository\obj\Debug\netcoreapp3.0\Repository.csprojAssemblyReference.cache
+C:\Users\ITDATA\source\repos\apiBaseCore\Repository\obj\Debug\netcoreapp3.0\Repository.AssemblyInfoInputs.cache
+C:\Users\ITDATA\source\repos\apiBaseCore\Repository\obj\Debug\netcoreapp3.0\Repository.AssemblyInfo.cs
+C:\Users\ITDATA\source\repos\apiBaseCore\Repository\obj\Debug\netcoreapp3.0\Repository.csproj.CopyComplete
+C:\Users\ITDATA\source\repos\apiBaseCore\Repository\obj\Debug\netcoreapp3.0\Repository.dll
+C:\Users\ITDATA\source\repos\apiBaseCore\Repository\obj\Debug\netcoreapp3.0\Repository.pdb

@@ -1,0 +1,11 @@
+C:\Users\ITDATA\source\repos\apiBaseCore\Contracts\bin\Debug\netcoreapp3.0\Contracts.deps.json
+C:\Users\ITDATA\source\repos\apiBaseCore\Contracts\bin\Debug\netcoreapp3.0\Contracts.dll
+C:\Users\ITDATA\source\repos\apiBaseCore\Contracts\bin\Debug\netcoreapp3.0\Contracts.pdb
+C:\Users\ITDATA\source\repos\apiBaseCore\Contracts\obj\Debug\netcoreapp3.0\Contracts.csprojAssemblyReference.cache
+C:\Users\ITDATA\source\repos\apiBaseCore\Contracts\obj\Debug\netcoreapp3.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\ITDATA\source\repos\apiBaseCore\Contracts\obj\Debug\netcoreapp3.0\Contracts.AssemblyInfo.cs
+C:\Users\ITDATA\source\repos\apiBaseCore\Contracts\obj\Debug\netcoreapp3.0\Contracts.dll
+C:\Users\ITDATA\source\repos\apiBaseCore\Contracts\obj\Debug\netcoreapp3.0\Contracts.pdb
+C:\Users\ITDATA\source\repos\apiBaseCore\Contracts\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\ITDATA\source\repos\apiBaseCore\Contracts\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\ITDATA\source\repos\apiBaseCore\Contracts\obj\Debug\netcoreapp3.0\Contracts.csproj.CopyComplete

@@ -1,0 +1,355 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\apiBaseCore\\apiBaseCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\apiBaseCore\\apiBaseCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\apiBaseCore\\apiBaseCore.csproj",
+        "projectName": "apiBaseCore",
+        "projectPath": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\apiBaseCore\\apiBaseCore.csproj",
+        "packagesPath": "C:\\Users\\ITDATA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\apiBaseCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ITDATA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Entities\\Entities.csproj"
+              },
+              "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\LoggerService\\LoggerService.csproj": {
+                "projectPath": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\LoggerService\\LoggerService.csproj"
+              },
+              "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.9.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Contracts\\Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Contracts\\Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Contracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\ITDATA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ITDATA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\ITDATA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ITDATA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\LoggerService\\LoggerService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\LoggerService\\LoggerService.csproj",
+        "projectName": "LoggerService",
+        "projectPath": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\LoggerService\\LoggerService.csproj",
+        "packagesPath": "C:\\Users\\ITDATA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\LoggerService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ITDATA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Contracts\\Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\ITDATA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ITDATA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Contracts\\Contracts.csproj"
+              },
+              "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\ITDATA\\source\\repos\\apiBaseCore\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
