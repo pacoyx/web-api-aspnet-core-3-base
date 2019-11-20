@@ -1,0 +1,8 @@
+C:\Users\ITDATA\source\repos\apiBaseCore\ProtectionData\bin\Debug\netcoreapp3.0\ProtectionData.deps.json
+C:\Users\ITDATA\source\repos\apiBaseCore\ProtectionData\bin\Debug\netcoreapp3.0\ProtectionData.dll
+C:\Users\ITDATA\source\repos\apiBaseCore\ProtectionData\obj\Debug\netcoreapp3.0\ProtectionData.csprojAssemblyReference.cache
+C:\Users\ITDATA\source\repos\apiBaseCore\ProtectionData\obj\Debug\netcoreapp3.0\ProtectionData.AssemblyInfoInputs.cache
+C:\Users\ITDATA\source\repos\apiBaseCore\ProtectionData\obj\Debug\netcoreapp3.0\ProtectionData.AssemblyInfo.cs
+C:\Users\ITDATA\source\repos\apiBaseCore\ProtectionData\bin\Debug\netcoreapp3.0\ProtectionData.pdb
+C:\Users\ITDATA\source\repos\apiBaseCore\ProtectionData\obj\Debug\netcoreapp3.0\ProtectionData.dll
+C:\Users\ITDATA\source\repos\apiBaseCore\ProtectionData\obj\Debug\netcoreapp3.0\ProtectionData.pdb

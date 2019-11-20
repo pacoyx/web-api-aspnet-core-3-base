@@ -45,6 +45,30 @@ namespace Entities.Migrations
                     b.ToTable("account");
                 });
 
+            modelBuilder.Entity("Entities.Models.Entidad", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Descripcion")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("EntidadId")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Estado")
+                        .HasColumnType("int");
+
+                    b.Property<int>("Prioridad")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Entidades");
+                });
+
             modelBuilder.Entity("Entities.Models.Owner", b =>
                 {
                     b.Property<Guid>("Id")

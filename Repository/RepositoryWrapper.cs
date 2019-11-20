@@ -12,6 +12,7 @@ namespace Repository
         private RepositoryContext _repoContext;
         private IOwnerRepository _owner;
         private IAccountRepository _account;
+        private IEntidadRepository _entidad;
 
         public IOwnerRepository Owner
         {
@@ -36,6 +37,18 @@ namespace Repository
                 }
 
                 return _account;
+            }
+        }
+
+        public IEntidadRepository Entidad 
+        {
+            get
+            {
+                if (_entidad == null)
+                {
+                    _entidad = new EntidadRepository(_repoContext);
+                }
+                return _entidad;
             }
         }
 

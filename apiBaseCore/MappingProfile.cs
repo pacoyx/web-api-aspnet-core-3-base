@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+
 namespace apiBaseCore
 {
     public class MappingProfile : Profile
@@ -21,6 +22,8 @@ namespace apiBaseCore
             CreateMap<OwnerForCreationDto, Owner>();
 
             CreateMap<OwnerForUpdateDto, Owner>();
+
+            CreateMap<Entidad, EntidadDto>();
         }
     }
 }

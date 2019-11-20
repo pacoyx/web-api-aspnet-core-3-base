@@ -8,6 +8,7 @@ namespace Contracts
     {
         IOwnerRepository Owner { get; }
         IAccountRepository Account { get; }
+        IEntidadRepository Entidad { get; }
         void Save();
     }
 }

@@ -16,5 +16,7 @@ namespace Entities.Models
 
         public DbSet<Owner> Owners { get; set; }
         public DbSet<Account> Accounts { get; set; }
+        public DbSet<Entidad> Entidades { get; set; }
+
     }
 }
