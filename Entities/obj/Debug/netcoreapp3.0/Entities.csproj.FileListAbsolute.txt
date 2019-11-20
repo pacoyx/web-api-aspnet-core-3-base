@@ -1,6 +1,5 @@
 C:\Users\ITDATA\source\repos\apiBaseCore\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
 C:\Users\ITDATA\source\repos\apiBaseCore\Entities\bin\Debug\netcoreapp3.0\Entities.dll
-C:\Users\ITDATA\source\repos\apiBaseCore\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
 C:\Users\ITDATA\source\repos\apiBaseCore\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
 C:\Users\ITDATA\source\repos\apiBaseCore\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
 C:\Users\ITDATA\source\repos\apiBaseCore\Entities\bin\Debug\netcoreapp3.0\Entities.runtimeconfig.json

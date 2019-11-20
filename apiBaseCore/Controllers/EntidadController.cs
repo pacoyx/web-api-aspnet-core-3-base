@@ -8,6 +8,7 @@ using AutoMapper;
 using Contracts;
 using Entities.DataTransferObjects;
 using Entities.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace apiBaseCore.Controllers
 {
@@ -26,7 +27,7 @@ namespace apiBaseCore.Controllers
             _mapper = mapper;
         }
 
-        [HttpGet]
+        [HttpGet, Authorize(Roles = "Manager")]
         public IActionResult GetAllEntidades()
         {
             try

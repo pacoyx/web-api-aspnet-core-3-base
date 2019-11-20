@@ -39,6 +39,10 @@ namespace apiBaseCore
             services.ConfigureRepositoryWrapper();
             services.ConfigureLoggerService();
             services.ConfigureMySqlContext(Configuration);
+            services.ConfigureSwagger();
+
+            services.ConfigureJWT();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -62,11 +66,17 @@ namespace apiBaseCore
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+            });
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
             });
         }
     }
