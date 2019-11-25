@@ -3,3 +3,6 @@ C:\Users\ITDATA\source\repos\apiBaseCore\Notifications\bin\Debug\netcoreapp3.0\N
 C:\Users\ITDATA\source\repos\apiBaseCore\Notifications\obj\Debug\netcoreapp3.0\Notifications.csprojAssemblyReference.cache
 C:\Users\ITDATA\source\repos\apiBaseCore\Notifications\obj\Debug\netcoreapp3.0\Notifications.AssemblyInfoInputs.cache
 C:\Users\ITDATA\source\repos\apiBaseCore\Notifications\obj\Debug\netcoreapp3.0\Notifications.AssemblyInfo.cs
+C:\Users\ITDATA\source\repos\apiBaseCore\Notifications\bin\Debug\netcoreapp3.0\Notifications.pdb
+C:\Users\ITDATA\source\repos\apiBaseCore\Notifications\obj\Debug\netcoreapp3.0\Notifications.dll
+C:\Users\ITDATA\source\repos\apiBaseCore\Notifications\obj\Debug\netcoreapp3.0\Notifications.pdb

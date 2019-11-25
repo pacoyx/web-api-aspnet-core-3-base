@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProtectionData", "Protectio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notifications", "Notifications\Notifications.csproj", "{42B61F22-16E8-4AA7-B370-BB26C181700D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiBaseCore.Tests", "apiBaseCore.Tests\apiBaseCore.Tests.csproj", "{F3FE517F-BA47-4519-8C8A-C302E77E5918}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{42B61F22-16E8-4AA7-B370-BB26C181700D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42B61F22-16E8-4AA7-B370-BB26C181700D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42B61F22-16E8-4AA7-B370-BB26C181700D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3FE517F-BA47-4519-8C8A-C302E77E5918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FE517F-BA47-4519-8C8A-C302E77E5918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FE517F-BA47-4519-8C8A-C302E77E5918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FE517F-BA47-4519-8C8A-C302E77E5918}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
