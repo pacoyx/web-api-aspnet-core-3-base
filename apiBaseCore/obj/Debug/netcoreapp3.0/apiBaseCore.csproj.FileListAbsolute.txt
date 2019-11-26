@@ -138,3 +138,5 @@ C:\Users\ITDATA\source\repos\apiBaseCore\apiBaseCore\bin\Debug\netcoreapp3.0\Mic
 C:\Users\ITDATA\source\repos\apiBaseCore\apiBaseCore\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\ITDATA\source\repos\apiBaseCore\apiBaseCore\obj\Debug\netcoreapp3.0\apiBaseCore.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ITDATA\source\repos\apiBaseCore\apiBaseCore\obj\Debug\netcoreapp3.0\apiBaseCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ITDATA\source\repos\apiBaseCore\apiBaseCore\bin\Debug\netcoreapp3.0\Notifications.dll
+C:\Users\ITDATA\source\repos\apiBaseCore\apiBaseCore\bin\Debug\netcoreapp3.0\Notifications.pdb
