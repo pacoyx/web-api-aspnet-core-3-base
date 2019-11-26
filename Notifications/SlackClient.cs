@@ -14,7 +14,7 @@ namespace Notifications
         private readonly Uri _uri;
         private readonly Encoding _encoding = new UTF8Encoding();
         string urlWithAccessToken = "https://slack.com";
-        string token = "xoxp-776136247109-763416065042-776222015621-5148c2dfed24d834f2a4c87d23d805cd";
+        
 
         public SlackClient()
         {
