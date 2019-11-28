@@ -216,3 +216,5 @@ C:\Users\ITDATA\source\repos\apiBaseCore\apiBaseCore.Tests\obj\Debug\netcoreapp3
 C:\Users\ITDATA\source\repos\apiBaseCore\apiBaseCore.Tests\obj\Debug\netcoreapp3.0\apiBaseCore.Tests.csproj.CopyComplete
 C:\Users\ITDATA\source\repos\apiBaseCore\apiBaseCore.Tests\obj\Debug\netcoreapp3.0\apiBaseCore.Tests.dll
 C:\Users\ITDATA\source\repos\apiBaseCore\apiBaseCore.Tests\obj\Debug\netcoreapp3.0\apiBaseCore.Tests.pdb
+C:\Users\ITDATA\source\repos\apiBaseCore\apiBaseCore.Tests\bin\Debug\netcoreapp3.0\Notifications.dll
+C:\Users\ITDATA\source\repos\apiBaseCore\apiBaseCore.Tests\bin\Debug\netcoreapp3.0\Notifications.pdb
